@@ -4,3 +4,6 @@
 <h1> Good job Serge on learning Devops</h1>
 <h1> This line is for my docker test</h1>
 <h1> My God is more than able to see me through</h1>
+<h1> DevOps is fun and a great concept</h1>
+<h1> I cant wait to make my six figure</h1>
+<h1> With God all things are possible to those who belive in Him</h1>
